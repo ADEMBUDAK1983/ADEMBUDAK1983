@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Aws & DevOps Engineering.
+- 🌱 I’m a Aws & DevOps Engineer.
 - 👯 I’m looking to collaborate on Cloud computing projects.
 - 💬 Ask me about AWS
 - 📫 How to reach me: https://www.linkedin.com/in/adembudak/
